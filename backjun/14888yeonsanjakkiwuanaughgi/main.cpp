@@ -50,11 +50,12 @@ void solution(int sequence[], int operatorCnt[], long long prev, int idx, long l
 
 int main() {
     int N;
+    cin >> N;
+
     int *sequence = new int[N];
     int operatorCnt[4];
     long long MAX = -INF, MIN = INF;
 
-    cin >> N;
     for(int i = 0; i < N; i++)
         cin >> sequence[i];
     for(int i = 0; i < 4; i++)
