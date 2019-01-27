@@ -26,8 +26,8 @@ int main() {
             dp[2][1] = dp[1][1] + dump; continue;
         }
 
-        dp[i][0] = max(dp[i-2][1], dp[i-2][0]) + dump;
-        dp[i][1] = dp[i-1][0] + dump;
+        dp[i][0] = max(dp[i-2][1], dp[i-2][0]) + dump;  //
+        dp[i][1] = dp[i-1][0] + dump;                   // 이전 계단에서 한 계단 올라온 경우
     }
 
     cout << max(dp[stairCnt][0], dp[stairCnt][1]);
