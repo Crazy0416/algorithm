@@ -29,6 +29,7 @@
 - [2631 줄 세우기](https://github.com/Crazy0416/algorithm/tree/master/backjun/2631juelseaugi)
 - [2638 치즈](https://github.com/Crazy0416/algorithm/tree/master/backjun/2638cheese)
 - [9506 약수들의 합](https://github.com/Crazy0416/algorithm/tree/master/backjun/9506sumofyaeksu)
+- [9663 N-Queen](https://github.com/Crazy0416/algorithm/tree/master/backjun/9663NQueen)
 
 
 
