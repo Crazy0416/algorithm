@@ -25,6 +25,7 @@
 - [2156 포도주](https://github.com/Crazy0416/algorithm/tree/master/backjun/2156poudoju)
 - [2293 동전1](https://github.com/Crazy0416/algorithm/tree/master/backjun/2293dongjun1)
 - [2622 삼각형 만들기](https://github.com/Crazy0416/algorithm/tree/master/backjun/2622maketriangle)
+- [2636 치즈](https://github.com/Crazy0416/algorithm/tree/master/backjun/2636cheese)
 
 
 
