@@ -42,3 +42,5 @@
 #### 고득점 kit
 
 - [스택/큐 쇠막대기](https://github.com/Crazy0416/algorithm/tree/master/programmers/stack_queue/IronMackdaegi)
+- [스택/큐 프린터](https://github.com/Crazy0416/algorithm/tree/master/programmers/stack_queue/printer)
+
