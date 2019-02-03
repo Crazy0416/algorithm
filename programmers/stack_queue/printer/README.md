@@ -12,7 +12,7 @@
     - max_value라면 answer++ 하고 deque의 최대값을 다시 찾는다. 만약 pop한 값이 location이라면 반복문 종료.
     - 위의 반복문을 반복한다.
 - 핵심 알고리즘
-    ```
+    ```cpp
     while(printQue.size() != 0) {
          int priority = printQue.front();
          printQue.pop_front();
@@ -36,7 +36,7 @@
 
 ### 다른 사람의 아이디어
 - 해결1
-    ```
+    ```cpp
     int solution(vector<int> priorities, int location) {
         queue<int> printer;                         //queue에 index 삽입.
         vector<int> sorted;                         //정렬된 결과 저장용
