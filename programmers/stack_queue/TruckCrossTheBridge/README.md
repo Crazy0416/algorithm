@@ -10,7 +10,7 @@
 - 트럭이 큐에 추가될 때 현재 지난 시간의 총합과 다리의 길이를 더한다.
     - 마지막 데이터가 큐에서 pop 될때 그 값을 answer에 대입하면 끝.
 
-```
+```cpp
 int solution(int bridge_length, int weight, vector<int> truck_weights) {
     int answer = 0;
     int count = 0;              // iterator 역할
