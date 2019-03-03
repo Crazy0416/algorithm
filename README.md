@@ -39,7 +39,7 @@
 ### 자료구조
 
 - [C++ 해시맵](https://github.com/Crazy0416/algorithm/tree/master/DataStructure/hashtable)
-
+- [C++ 스택](https://github.com/Crazy0416/algorithm/tree/master/DataStructure/stack)
 
 ### 프로그래머스
 
